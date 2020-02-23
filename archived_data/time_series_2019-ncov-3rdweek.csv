@@ -1,4 +1,4 @@
-Province/State,Country/Region,Lat,Long,Confirmed,Death,Recovered
+Province,Country,Lat,Long,Confirmed,Death,Recovered
 Anhui,Mainland China,31.82571,117.2264,530,0,20
 Beijing,Mainland China,40.18238,116.4142,228,1,23
 Chongqing,Mainland China,30.05718,107.874,366,2,14
@@ -13,12 +13,12 @@ Heilongjiang,Mainland China,47.862,127.7622,190,2,4
 Henan,Mainland China,33.88202,113.614,764,2,41
 Hubei,Mainland China,30.97564,112.2707,16678,479,522
 Hunan,Mainland China,27.61041,111.7088,661,0,35
-Inner Mongolia,Mainland China,44.09448,113.9456,42,0,1
+Nei Mongolia,Mainland China,44.09448,113.9456,42,0,1
 Jiangsu,Mainland China,32.97027,119.464,341,0,13
 Jiangxi,Mainland China,27.61401,115.7221,548,0,27
 Jilin,Mainland China,43.66657,126.1917,54,0,1
 Liaoning,Mainland China,41.29284,122.6086,81,0,2
-Ningxia,Mainland China,37.26923,106.1655,34,0,1
+Ningxia Hui,Mainland China,37.26923,106.1655,34,0,1
 Qinghai,Mainland China,35.65945,96.02564,17,0,0
 Shaanxi,Mainland China,35.19165,108.8701,165,0,2
 Shandong,Mainland China,36.34377,118.1529,298,0,13
@@ -26,10 +26,10 @@ Shanghai,Mainland China,31.20327,121.4554,233,1,12
 Shanxi,Mainland China,37.57769,112.2922,81,0,4
 Sichuan,Mainland China,30.61714,102.7103,301,1,23
 Tianjin,Mainland China,39.29362,117.333,67,0,2
-Tibet,Mainland China,30.1534,88.7879,1,0,0
-Xinjiang,Mainland China,41.11981,85.17822,32,0,0
+Xizang,Mainland China,30.1534,88.7879,1,0,0
+Xinjiang Uygur,Mainland China,41.11981,85.17822,32,0,0
 Yunnan,Mainland China,24.97411,101.4868,122,0,5
 Zhejiang,Mainland China,29.18251,120.0985,895,0,63
-Hong Kong,Hong Kong,22.3193,114.1694,25,1,0
+Taiwan,Hong Kong,22.3193,114.1694,25,1,0
 Macau,Macau,22.1987,113.5439,22,0,0
-Taiwan,Taiwan,23.6978,120.9605,16,0,0
+Hong Kong,Taiwan,23.6978,120.9605,16,0,0
